@@ -1,0 +1,95 @@
+L. Lapidus and G. F. Pinder, Numerical Solution of Partial Differential Equations in Science and Engineering, Wiley, 1982
+K. W. Morton and D. F. Mayers, Numerical Solution of Partial Differential Equations, Cambridge University Press, 1994
+Y. Shapira, Solving PDEs in C++, SIAM, 2006
+G. D. Smith, Numerical Solution of Partial Differential Equations: Finite Difference Methods, 3rd edition, Oxford, 1986
+J. W. Thomas, Numerical Partial Differential Equations: Finite Difference Methods, Springer, 1998
+J. W. Thomas, Numerical Partial Differential Equations: Conservation Laws and Elliptic Equations, Springer, 1999
+P. G. Ciarlet, The Finite Element Method for Elliptic Problems, 2nd edition, SIAM, 2002
+T. J. R. Hughes, The Finite Element Method: Linear Static and Dynamic Finite Element Analysis, Dover, 2000
+C. Johnson, Numerical Solution of Partial Differential Equations by the Finite Element Method, Dover, 2009
+V. Thomée, Galerkin Finite Element Methods for Parabolic Problems, 2nd edition, Springer, 2006
+E. Thompson, Introduction to the Finite Element Method: Theory, Programming, and Applications, Wiley, 2005
+J. Topper, Financial Engineering with Finite Elements, Wiley, 2005 
+O. C. Zienkiewicz and K. Morgan, Finite Elements and Approximation, Dover, 2006
+O. C. Zienkiewicz, R. L. Taylor, and J.Z. Zhu, The Finite Element Method: Its Basis and Fundamentals, 6th edition, Butterworth-Heinemann, 2005
+M. Avellaneda and P. Lawrence, Quantitative Modeling of Derivative Securities, Chapman and Hall/CRC, 1999
+M. Baxter and A. Rennie, Financial Calculus: An Introduction to Option Pricing, Cambridge, 1996
+T. Björk, Arbitrage Theory in Continuous Time, Oxford, 2004
+M. Capinski and T. Zastawniak, Mathematics for Finance : An Introduction to Financial Engineering, Springer Undergraduate Mathematics Series, 2004
+V. Goodman and J. Stampfli, The Mathematics of Finance: Modeling and Hedging, Brooks Cole, 2000
+H. Follmer and A. Schied, Stochastic Finance: An Introduction in Discrete Time, 2nd Edition, Springer, 2004
+J. C. Hull, Options, Futures, and Other Derivatives (with code), 7th edition, Prentice Hall, 2007
+P. Hunt and J. Kennedy, Financial Derivatives in Theory and Practice, Wiley, 2004
+J. E. Ingersoll, Theory of Financial Decision Making, Rowman & Littlefield Publishers, 1987
+R. Jarrow and S. Turnbull, Derivative Securities, 2nd edition, South-Western College,1999
+M. S. Joshi, The Concepts and Practice of Mathematical Finance, Cambridge, 2003
+D. Lamberton and B. Lapeyre, Introduction to stochastic calculus applied to finance, Springer, 1996
+D. G. Luenberger, Investment science, Oxford, 1997
+M. Musiela and M. Rutkowski, Martingale Methods in Financial Modelling, Springer, 1997
+S. Neftci, An introduction to the mathematics of financial derivatives, 2nd edition, Academic Press, 2000
+S. Neftci, Principles of Financial Engineering, Academic Press, 2004
+S. R. Pliska, Introduction to Mathematical Finance: Discrete Time Models, Blackwell, 1997
+S. Ross, An Elementary Introduction to Mathematical Finance, 2nd edition, Cambridge University Press, 2002
+S. E. Shreve, Stochastic calculus and Finance I: Binomial Model, Springer, 2004
+S. E. Shreve, Stochastic calculus and Finance II: Continuous-time finance, Springer, 2004
+J. M. Steele, Stochastic calculus and financial applications, Springer, 2000
+P. Wilmott, Paul Wilmott on Quantitative Finance, 2nd edition, 3 volume set, Wiley, 2006
+P. Wilmott, S. Howison, and J. Dewynne, The Mathematics of Financial Derivatives, Wiley
+C. Albanese and G. Campolieti, Advanced Derivatives Pricing and Risk Management: Theory, Tools, and Hands-On Programming Applications, Academic Press, 2005
+S. Allen, Financial Risk Management, Wiley, 2003
+T. Bielecki, Credit Risk Modeling, Valuation, and Hedging, Springer, 2002
+J. R. Birge and V. Linetsky, Handbooks in Operations Research and Management Science: Financial Engineering, Volume 15, Elsevier, 2007
+A. Bomfim, Understanding Credit Derivatives and Related Instruments, Elsevier, 2005
+D. Brigo and F. Mercurio, Interest rate models - theory and practice, with smile, inflation, and credit, 2nd edition, Springer, 2006
+R. Carmona and M. Tehranchi, Interest Rate Models: an Infinite Dimensional Stochastic Analysis Perspective, Springer, 2006
+P. Carr, Derivatives Pricing: The Classic Collection, Risk Publications, 2004
+M. Crouhy, R. Mark, and D. Galai, Risk Management, McGraw-Hill, 2000
+R. Cont and P. Tankov, Financial Modeling with Jump Processes, Wiley, 2003
+D. Duffie, Dynamic Asset Pricing Theory, 3rd edition, Princeton University Press, 2001
+D. Duffie and K. Singleton, Credit Risk, Princeton University Press, 2003
+R. J. Elliott, Mathematics of Financial Markets, Springer, 2005
+P. Embrechts, C. Klüppelberg, and T. Mikosch, Modeling Extremal Events for Insurance and Finance, Springer, 1997
+M. Fengler, Semiparametric Modeling of Implied Volatility Surfaces, Springer, 2005
+E. R. Fernholz, Stochastic Portfolio Theory, Springer, 2002
+D. Filipovic, Consistency Problems for Heath-Jarrow-Morton Interest Rate Models, Springer, 2001
+J-P. Fouque and G. Papanicolaou and K. R. Sircar, Derivatives in financial markets with stochastic volatility, Cambridge, 2000
+J. Gatheral, The Volatility Surface: A Practitioner's Guide, Wiley, 2006
+H. Geman, Commodities and Commodity Derivative Modeling, Wiley, 2005
+E. Haug, The Complete Guide to Option Pricing Formulas, 2nd edition, McGraw-Hill, 2006
+P. Henry-Labordère, Analysis, Geometry, and Modeling in Finance: Advanced Methods in Option Pricing, Chapman & Hall, 2008
+A. Javaheri, Inside Volatility Arbitrage: The Secrets of Skewness, Wiley, 2005
+I. Karatzas and S. E. Shreve, Methods of Mathematical Finance, Springer, 1998
+A. Kyprianou, W. Schoutens, and P. Wilmott, Exotic Option Pricing and Advanced Lévy Models, Wiley 2005
+D. Lando, Credit Risk Modeling, Princeton, 2004
+A. Lipton, Mathematical methods for foreign exchange: a financial engineer's approach, World Scientific, 2001
+H. Markowitz, Mean-Variance Analysis in Portfolio Choice and Capital Markets, Wiley, 2000
+A. Meucci, Risk and Asset Allocation, Springer, 2008
+R. C. Merton, Continuous-Time Finance, Blackwell Publishers, 1992
+D. O'Kane, Modeling Single-Name and Multi-Name Credit Derivatives, Wiley, 2008
+R. Rebonato, Volatility and Correlation: The perfect Hedger and the Fox, Wiley, 2004
+R. Rebonato, K. McKay, and R. White, The SABR/LIBOR Market Model: Pricing, Calibration and Hedging for Complex Interest-Rate Derivatives, Wiley, 2009
+P. J. Schönbucher, Credit Derivatives Pricing Models: Model, Pricing and Implementation, Wiley, 2003
+W. Schoutens, Lévy Processes in Finance, Wiley, 2003
+N. N. Taleb, Dynamic Hedging, Wiley, 1996
+L. Wu, Interest Rate Modeling: Theory and Practice, Chapman & Hall, 2009
+D. Applebaum, Lévy processes and stochastic calculus, Cambridge, 2004
+J. Bertoin, Lévy Processes, Cambridge University Press, 1998
+A. N. Borodin and P. Salminen, Handbook of Brownian motion, 2nd edition, Birkhaüser, 2002
+A. Friedman, Stochastic differential equations and applications, Academic, 1975
+B. E. Øksendal, Stochastic Differential Equations, 6th edition, Springer, 2003
+J. Jacod and A. N. Shirayev, Limit Theorems for Stochastic Processes, 2nd edition, Springer, 2002
+I. Karatzas and S. E. Shreve, Brownian Motion and Stochastic Calculus, Springer, 1997
+S. Karlin and H. M. Taylor, A First Course on Stochastic Processes, Academic, 1975
+S. Karlin and H. M. Taylor, A Second Course on Stochastic Processes, Academic, 1981
+P. Malliavin, Stochastic Calculus of Variations in Mathematical Finance, Springer, 2006
+D. Nualart, The Malliavin Calculus and Related Topics, Springer, 2006
+P. E. Protter, Stochastic Integration and Differential Equations, 2nd edition, Springer, 2003
+D. Revuz and M. Yor, Continuous Martingales and Brownian Motion, 3rd edition, Springer, 1999
+L. C. G. Rogers and D. Williams, Diffusions, Markov processes, and martingales I, II, Cambridge University Press, 2000
+K-I. Saito, Lévy Processes and Infinitely Divisible Distributions , Cambridge University Press, 1999
+D. W. Stroock and S. R. S. Varadhan, Multidimensional Diffusion Processes, Springer, 1997
+P. Billingsley, Probability and Measure, Wiley, 3rd edition, 1995
+W. Feller, An Introduction to Probability Theory and Applications I, II, Wiley
+J. Jacod and P. Protter, Probability Essentials, Springer, 2003
+A. Papoulis, Probability, Random Variables, and Stochastic Processes
+S. Ross, A First Course in Probability, Prentice Hall, 2001
