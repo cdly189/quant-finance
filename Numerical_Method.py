@@ -50,5 +50,4 @@ print(abs(I[0] - float(I_mid)))
 print(abs(I[0] - float(I_trap)))
 print(abs(I[0] - float(I_simpson)))
 
-# From here, we can conclude that by using the Simpson's Rule, we get the
-# closest result
+# From here, we can conclude that by using the Simpson's Rule, we get the closest result
