@@ -1,3 +1,9 @@
+"""
+Book "A Primer for the Mathematics of Financial Engineering" by Dan Stefanica
+Section 2.5.1 - Implementation of numerical integration methods
+Below are four methods to find the integration: package Scipy, Midpoint, Trapezoidal, and Simpson's Rule
+"""
+
 from scipy.integrate import quad
 import numpy as np
 a = 1
